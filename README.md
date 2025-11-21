@@ -5,9 +5,9 @@
 ## Key Engineering Contributions
 My work focused on modernizing the software infrastructure and reliability:
 * **CI/CD Implementation:** Designed and integrated a **CircleCI** pipeline to automate testing on every push.
-* Link to PR: (https://github.com/dsavransky/EXOSIMS/pull/282)
+  * Link to PR: (https://github.com/dsavransky/EXOSIMS/pull/282)
 * **Unit Testing:** Wrote a comprehensive test suite, increasing code coverage from **51% to 60%** (in addition to bugfixes.)
-* Many tests are written in https://github.com/dsavransky/EXOSIMS/tree/master/tests
+  * Most tests are found in https://github.com/dsavransky/EXOSIMS/tree/master/tests
 
 ---
 

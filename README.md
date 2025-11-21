@@ -1,3 +1,16 @@
+# Portfolio Note: My Contributions to EXOSIMS
+
+*This is a fork of the [NASA EXOSIMS](https://github.com/dsavransky/EXOSIMS) repository. I contributed to this codebase as an undergraduate researcher at Cornell University.*
+
+## Key Engineering Contributions
+My work focused on modernizing the software infrastructure and reliability:
+* **CI/CD Implementation:** Designed and integrated a **CircleCI** pipeline to automate testing on every push.
+* Link to PR: (https://github.com/dsavransky/EXOSIMS/pull/282)
+* **Unit Testing:** Wrote a comprehensive test suite, increasing code coverage from **51% to 60%** (in addition to bugfixes.)
+* Many tests are written in https://github.com/dsavransky/EXOSIMS/tree/master/tests
+
+---
+
 ![Alt text](EXOSIMS_cropped.png)
 Exoplanet Open-Source Imaging Mission Simulator
 

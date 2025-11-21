@@ -1,6 +1,6 @@
 # Portfolio Note: My Contributions to EXOSIMS
 
-*This is a fork of the [NASA EXOSIMS](https://github.com/dsavransky/EXOSIMS) repository. I contributed to this codebase as an undergraduate researcher at Cornell University.*
+*This is a fork of the [EXOSIMS](https://github.com/dsavransky/EXOSIMS) repository. I contributed to this codebase as an undergraduate researcher at Cornell University.*
 
 ## Key Engineering Contributions
 My work focused on modernizing the software infrastructure and reliability:
